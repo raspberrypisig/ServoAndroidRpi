@@ -9,3 +9,9 @@
 3. Using Raspberry Pi 3 with Bluetooth LE running python program.
 4. Android app written using App Inventor 2
 
+## Installation on Raspberry Pi
+1. Enable i2c using raspi-config
+2. run **i2detect -l** and **i2detect -y 1** 
+3. Install bleno https://github.com/noble/bleno
+
+
