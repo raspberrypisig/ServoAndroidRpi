@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# sudo apt install libffi-dev
+# sudo pip install -U pip setuptools
 # sudo pip install PCA9685-driver
 
 from pca9685_driver import Device
